@@ -1,6 +1,6 @@
 <div align="center">
 
-![Davi Leal](assets/banner.svg)
+![Davi Leal](https://raw.githubusercontent.com/davileal0702/davileal0702/refs/heads/main/assets/banner.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Courier+New&size=20&pause=1200&color=00F5FF&background=0D0221&center=true&vCenter=true&width=700&lines=BOOTING+DAVI.EXE...;DEVOPS+%2F+DATA+%2F+AUTOMATION;STATUS%3A+LOOKING+FOR+INTERNSHIP;CARREGANDO+DAVI.EXE...;DEVOPS+%2F+DADOS+%2F+AUTOMACAO;STATUS%3A+BUSCANDO+ESTAGIO)](#)
 
@@ -28,7 +28,7 @@ Looking for an internship in **DevOps**, **Data Engineering**, or **Process Auto
 
 <br>
 
-![Status](assets/stats.svg)
+![Status](https://raw.githubusercontent.com/davileal0702/davileal0702/refs/heads/main/assets/stats.svg)
 
 <br>
 
