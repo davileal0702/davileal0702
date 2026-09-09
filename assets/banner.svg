@@ -1,29 +1,15 @@
 <svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-<feGaussianBlur stdDeviation="4" result="b"/>
-<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-</filter>
-<linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#ff2e97"/>
-<stop offset="50%" stop-color="#9d4edd"/>
-<stop offset="100%" stop-color="#00f5ff"/>
-</linearGradient>
-<pattern id="pxH" width="16" height="8" patternUnits="userSpaceOnUse">
-<rect width="8" height="8" fill="#ff2e97"/>
-<rect x="8" width="8" height="8" fill="#00f5ff"/>
-</pattern>
-<pattern id="pxV" width="8" height="16" patternUnits="userSpaceOnUse">
-<rect width="8" height="8" fill="#ff2e97"/>
-<rect y="8" width="8" height="8" fill="#00f5ff"/>
-</pattern>
-</defs>
-<rect width="900" height="220" fill="#0d0221"/>
-<rect width="900" height="8" fill="url(#pxH)"/>
-<rect y="212" width="900" height="8" fill="url(#pxH)"/>
-<rect width="8" height="220" fill="url(#pxV)"/>
-<rect x="892" width="8" height="220" fill="url(#pxV)"/>
-<text x="450" y="115" font-family="Courier New, monospace" font-size="58" font-weight="bold" fill="url(#neon)" text-anchor="middle" letter-spacing="6" filter="url(#glow)">DAVI LEAL</text>
-<text x="450" y="152" font-family="Courier New, monospace" font-size="17" fill="#00f5ff" text-anchor="middle" letter-spacing="3" filter="url(#glow)">// DEVOPS &#183; DATA &#183; AUTOMATION //</text>
-<text x="450" y="185" font-family="Courier New, monospace" font-size="12" fill="#7a6a99" text-anchor="middle" letter-spacing="2">PRESS START TO CONTINUE &#9656;</text>
+<rect width="900" height="220" fill="#17181a"/>
+<g fill="#e2716f">
+<rect x="144" y="70" width="48" height="12"/><rect x="144" y="82" width="12" height="12"/><rect x="192" y="82" width="12" height="12"/><rect x="144" y="94" width="12" height="12"/><rect x="192" y="94" width="12" height="12"/><rect x="144" y="106" width="12" height="12"/><rect x="192" y="106" width="12" height="12"/><rect x="144" y="118" width="12" height="12"/><rect x="192" y="118" width="12" height="12"/><rect x="144" y="130" width="12" height="12"/><rect x="192" y="130" width="12" height="12"/><rect x="144" y="142" width="48" height="12"/>
+<rect x="228" y="70" width="36" height="12"/><rect x="216" y="82" width="12" height="12"/><rect x="264" y="82" width="12" height="12"/><rect x="216" y="94" width="12" height="12"/><rect x="264" y="94" width="12" height="12"/><rect x="216" y="106" width="60" height="12"/><rect x="216" y="118" width="12" height="12"/><rect x="264" y="118" width="12" height="12"/><rect x="216" y="130" width="12" height="12"/><rect x="264" y="130" width="12" height="12"/><rect x="216" y="142" width="12" height="12"/><rect x="264" y="142" width="12" height="12"/>
+<rect x="288" y="70" width="12" height="12"/><rect x="336" y="70" width="12" height="12"/><rect x="288" y="82" width="12" height="12"/><rect x="336" y="82" width="12" height="12"/><rect x="288" y="94" width="12" height="12"/><rect x="336" y="94" width="12" height="12"/><rect x="288" y="106" width="12" height="12"/><rect x="336" y="106" width="12" height="12"/><rect x="288" y="118" width="12" height="12"/><rect x="336" y="118" width="12" height="12"/><rect x="300" y="130" width="12" height="12"/><rect x="324" y="130" width="12" height="12"/><rect x="312" y="142" width="12" height="12"/>
+<rect x="360" y="70" width="60" height="12"/><rect x="384" y="82" width="12" height="12"/><rect x="384" y="94" width="12" height="12"/><rect x="384" y="106" width="12" height="12"/><rect x="384" y="118" width="12" height="12"/><rect x="384" y="130" width="12" height="12"/><rect x="360" y="142" width="60" height="12"/>
+<rect x="480" y="70" width="12" height="12"/><rect x="480" y="82" width="12" height="12"/><rect x="480" y="94" width="12" height="12"/><rect x="480" y="106" width="12" height="12"/><rect x="480" y="118" width="12" height="12"/><rect x="480" y="130" width="12" height="12"/><rect x="480" y="142" width="60" height="12"/>
+<rect x="552" y="70" width="60" height="12"/><rect x="552" y="82" width="12" height="12"/><rect x="552" y="94" width="12" height="12"/><rect x="552" y="106" width="48" height="12"/><rect x="552" y="118" width="12" height="12"/><rect x="552" y="130" width="12" height="12"/><rect x="552" y="142" width="60" height="12"/>
+<rect x="636" y="70" width="36" height="12"/><rect x="624" y="82" width="12" height="12"/><rect x="672" y="82" width="12" height="12"/><rect x="624" y="94" width="12" height="12"/><rect x="672" y="94" width="12" height="12"/><rect x="624" y="106" width="60" height="12"/><rect x="624" y="118" width="12" height="12"/><rect x="672" y="118" width="12" height="12"/><rect x="624" y="130" width="12" height="12"/><rect x="672" y="130" width="12" height="12"/><rect x="624" y="142" width="12" height="12"/><rect x="672" y="142" width="12" height="12"/>
+<rect x="696" y="70" width="12" height="12"/><rect x="696" y="82" width="12" height="12"/><rect x="696" y="94" width="12" height="12"/><rect x="696" y="106" width="12" height="12"/><rect x="696" y="118" width="12" height="12"/><rect x="696" y="130" width="12" height="12"/><rect x="696" y="142" width="60" height="12"/>
+</g>
+<text x="450" y="180" font-family="Consolas, Menlo, monospace" font-weight="bold" font-size="15" fill="#d64545" text-anchor="middle" letter-spacing="3">// DEVOPS &#183; DATA &#183; AUTOMATION //</text>
+<text x="450" y="204" font-family="Consolas, Menlo, monospace" font-size="11" fill="#8b8d98" text-anchor="middle" letter-spacing="2">PRESS START TO CONTINUE &#9656;</text>
 </svg>
