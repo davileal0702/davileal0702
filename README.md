@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Davi 👋
 
-<!--
-**davileal0702/davileal0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science & AI student (UNISO, Brazil) who already runs real production infrastructure.
 
-Here are some ideas to get you started:
+## What I do today (Intuition Media)
+- Manage a VPS via EasyPanel, hosting the company's automation engine (n8n) and a multi-tenant membership platform I built from scratch.
+- Built a data pipeline (n8n + Google Apps Script + Supabase) that powers 6 simultaneous product launches.
+- Maintain an internal CRM and integrate third-party APIs (WhatsApp, CRMs, ERPs).
+- Built an AI agent (Claude Code) integrated with the Meta Ads API that monitors campaigns and suggests and executes optimizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Looking for
+An internship in DevOps, Data Engineering, or Process Automation.
+
+## Stack
+Linux, Docker, EasyPanel, n8n, Python, Node.js, Supabase/PostgreSQL, Terraform, Ansible, REST APIs, Git/GitHub
+
+## Contact
+Email: v6projetos@gmail.com
+LinkedIn: linkedin.com/in/davi-leal
+
+Pinned projects below show real, working code. Check them out.
