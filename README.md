@@ -10,9 +10,11 @@
 <summary>🇧🇷 <b>Português</b></summary>
 <br>
 
-Estudante de Ciência de Dados e IA (UNISO) que já cuida de infraestrutura de verdade. Administro uma VPS, construí um pipeline de dados que sustenta 6 lançamentos simultâneos, mantenho um CRM interno e criei um agente de IA que otimiza campanhas de tráfego pago.
+Estudante de Ciência de Dados e Inteligência Artificial (UNISO) que já opera infraestrutura de verdade: administro VPS/EasyPanel, construí um pipeline de dados que hoje sustenta 6 lançamentos simultâneos (n8n + Apps Script + Supabase), evoluo um CRM interno e desenvolvo agentes de IA que executam ações reais em campanhas de tráfego pago.
 
-Procurando estágio em **DevOps**, **Engenharia de Dados** ou **Automação de Processos**.
+Comecei mexendo com automação sem saber que isso ia virar o centro do que eu faço. Na Intuition Media, o que era "montar um fluxo no n8n" virou cuidar de infraestrutura real: essa mesma VPS também hospeda uma plataforma de área de membros multi-tenant que desenvolvi do zero, permitindo lançar uma instância customizável pra cada novo expert da empresa sem recriar o projeto e aplicar atualizações a todas de uma vez. Também crio e testo prompts otimizados para diferentes LLMs no dia a dia da operação.
+
+Estou buscando um estágio em DevOps, Engenharia de Dados ou Automação de Processos para aprofundar isso com mentoria e escala, com a ambição de, no médio prazo, me especializar em engenharia de integração/middleware. Meus projetos estão no GitHub, se quiser ver o código por trás disso.
 
 </details>
 
@@ -20,9 +22,11 @@ Procurando estágio em **DevOps**, **Engenharia de Dados** ou **Automação de P
 <summary>🇺🇸 <b>English</b></summary>
 <br>
 
-Data Science and AI student (UNISO, Brazil) who already runs real infrastructure. I manage a VPS, built a data pipeline that powers 6 simultaneous product launches, maintain an internal CRM, and built an AI agent that optimizes paid ad campaigns.
+Data Science and Artificial Intelligence student (UNISO) who already operates real infrastructure: I manage a VPS/EasyPanel, built a data pipeline that now supports 6 simultaneous product launches (n8n + Apps Script + Supabase), maintain an internal CRM, and develop AI agents that take real actions in paid traffic campaigns.
 
-Looking for an internship in **DevOps**, **Data Engineering**, or **Process Automation**.
+I started tinkering with automation without knowing it would become the center of what I do. At Intuition Media, what used to be "setting up a flow in n8n" turned into managing real infrastructure: that same VPS also hosts a multi-tenant membership platform I built from scratch, allowing a customizable instance to be launched for each new expert at the company without recreating the project, and applying updates to all of them at once. I also create and test optimized prompts for different LLMs in day-to-day operations.
+
+I'm looking for an internship in DevOps, Data Engineering, or Process Automation to go deeper with mentorship and scale, with the ambition of specializing in integration/middleware engineering in the medium term. My projects are on GitHub if you want to see the code behind this.
 
 </details>
 
